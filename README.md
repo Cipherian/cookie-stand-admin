@@ -19,3 +19,9 @@ yarn dev
 # or
 pnpm dev
 ```
+
+  - Username: dan
+  - Password: dan
+
+  - Username: admin
+  - Password: admin
