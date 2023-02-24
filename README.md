@@ -1,5 +1,7 @@
 # Cookie Stand Admin
 
+- Deployed front-end: https://cookie-stand-admin-rust.vercel.app/
+
 - A test project using nextjs, tailwind styling, React and a Django backend.
 
 - Author: Daniel Brott
